@@ -1,0 +1,7 @@
+{
+  "default_model": "gemini_4_argon",
+  "temperature": 0.2,
+  "max_tokens": 4096,
+  "top_p": 0.95,
+  "api_key": "ENV_OR_KEY_HERE"
+}
